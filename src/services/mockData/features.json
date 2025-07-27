@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Describe in Plain English",
+    "description": "Simply type what automation you want to create. No technical knowledge required - just describe your workflow in natural language.",
+    "icon": "MessageSquare"
+  },
+  {
+    "id": 2,
+    "title": "AI Creates Workflow",
+    "description": "Our advanced AI understands your requirements and generates a complete n8n workflow with all the necessary nodes and connections.",
+    "icon": "Zap"
+  },
+  {
+    "id": 3,
+    "title": "Export & Run",
+    "description": "Download the JSON file for your n8n instance or deploy instantly to our cloud platform. Your automation is ready to work.",
+    "icon": "Download"
+  }
+]

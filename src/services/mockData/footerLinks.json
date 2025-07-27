@@ -1,0 +1,41 @@
+[
+  {
+    "title": "Product",
+    "links": [
+      { "label": "Features", "href": "#features" },
+      { "label": "Pricing", "href": "#pricing" },
+      { "label": "Marketplace", "href": "#marketplace" },
+      { "label": "Documentation", "href": "#docs" },
+      { "label": "API", "href": "#api" }
+    ]
+  },
+  {
+    "title": "Company",
+    "links": [
+      { "label": "About Us", "href": "#about" },
+      { "label": "Careers", "href": "#careers" },
+      { "label": "Blog", "href": "#blog" },
+      { "label": "Press", "href": "#press" },
+      { "label": "Contact", "href": "#contact" }
+    ]
+  },
+  {
+    "title": "Support",
+    "links": [
+      { "label": "Help Center", "href": "#help" },
+      { "label": "Community", "href": "#community" },
+      { "label": "Tutorials", "href": "#tutorials" },
+      { "label": "Status", "href": "#status" },
+      { "label": "Book a Call", "href": "#book-call" }
+    ]
+  },
+  {
+    "title": "Legal",
+    "links": [
+      { "label": "Privacy Policy", "href": "#privacy" },
+      { "label": "Terms of Service", "href": "#terms" },
+      { "label": "Cookie Policy", "href": "#cookies" },
+      { "label": "GDPR", "href": "#gdpr" }
+    ]
+  }
+]

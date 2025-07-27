@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Free",
+    "price": "$0",
+    "period": "/month",
+    "description": "Perfect for getting started",
+    "features": [
+      "5 workflows per month",
+      "Basic AI assistance",
+      "JSON export",
+      "Community support",
+      "Standard templates"
+    ],
+    "highlighted": false,
+    "buttonText": "Start Free",
+    "buttonVariant": "secondary"
+  },
+  {
+    "id": 2,
+    "name": "Pro",
+    "price": "$29",
+    "period": "/month",
+    "description": "For automation professionals",
+    "features": [
+      "Unlimited workflows",
+      "Advanced AI assistance",
+      "Priority export",
+      "Email support",
+      "Custom templates",
+      "Workflow optimization",
+      "Version history"
+    ],
+    "highlighted": true,
+    "buttonText": "Start Pro",
+    "buttonVariant": "primary"
+  },
+  {
+    "id": 3,
+    "name": "Business",
+    "price": "$49",
+    "period": "/month",
+    "description": "For teams and organizations",
+    "features": [
+      "Everything in Pro",
+      "Team collaboration",
+      "Role-based access",
+      "Priority support",
+      "Custom integrations",
+      "Analytics dashboard",
+      "API access",
+      "Dedicated account manager"
+    ],
+    "highlighted": false,
+    "buttonText": "Contact Sales",
+    "buttonVariant": "secondary"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "label": "Features",
+    "href": "#features",
+    "isComingSoon": false
+  },
+  {
+    "label": "Pricing",
+    "href": "#pricing",
+    "isComingSoon": false
+  },
+  {
+    "label": "Marketplace",
+    "href": "#marketplace",
+    "isComingSoon": true
+  },
+  {
+    "label": "Sign In",
+    "href": "#signin",
+    "isComingSoon": false
+  },
+  {
+    "label": "Book A Call",
+    "href": "#book-call",
+    "isComingSoon": false
+  }
+]
